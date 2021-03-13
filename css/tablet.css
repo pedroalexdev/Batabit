@@ -1,0 +1,24 @@
+.bitcoin-img-container h2 {
+    padding-top: 60px;
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 2.6rem;
+    color: #fff;
+    text-align: center;
+}
+
+.main-table-container--slider{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-container--slider{
+    justify-content: center;
+}
